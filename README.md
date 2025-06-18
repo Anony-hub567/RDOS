@@ -13,9 +13,4 @@ This repository contains the materials related to my thesis.
 
 * **Interview minutes.md** : This document records the interview content with smart healthcare big data platform project. It details the views and information gathered during the interview regarding organizational structure, work processes, and personnel collaboration. It provides firsthand empirical data and practical case support for thesis analysis.
 
-
-![Ideal Organizational Structure](images/Ideal Organizational Structure.png)
-
 ![Ideal Organizational Structure](images/Ideal_Organizational_Structure.png)
-
-![Ideal Organizational Structure](Ideal_Organizational_Structure.png)
