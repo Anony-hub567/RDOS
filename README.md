@@ -12,7 +12,3 @@ This repository contains the materials related to my thesis.
 ## Interview Records
 
 * **Interview minutes.md** : This document records the interview content with smart healthcare big data platform project. It details the views and information gathered during the interview regarding organizational structure, work processes, and personnel collaboration. It provides firsthand empirical data and practical case support for thesis analysis.
-
-## Other Information
-
-README.md is the introduction file for this repository, briefly outlining the basic information and purpose of the materials within. It helps readers quickly understand the content of the repository.
