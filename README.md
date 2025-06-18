@@ -15,3 +15,7 @@ This repository contains the materials related to my thesis.
 
 
 ![Ideal Organizational Structure](images/Ideal Organizational Structure.png)
+
+![Ideal Organizational Structure](images/Ideal_Organizational_Structure.png)
+
+![Ideal Organizational Structure](Ideal_Organizational_Structure.png)
