@@ -85,12 +85,3 @@ In the figure, "mc" followed by a number denotes Missing Communication, "ac" fol
   - **Issue**: The CTO of Company B, responsible for overseeing data policies and requirements documentation, did not maintain regular communication with the Project Manager of Company C. This Missing communication led to misalignments in data cleaning and algorithm development. Specifically, the data cleaning processes undertaken by Company B did not align with the algorithmic requirements of Company C, resulting in rework and extended timelines.
   - **Impact**: The algorithms developed by Company C's Algorithm Team could not effectively utilize the cleaned data from Company B, leading to inefficiencies and delays in the project.
 
-### Abnormal Communication (ac)
-
-[Content to be supplemented later]
-
-### Correct Communication (cc)
-
-[Content to be supplemented later]
-
-[Email information.md](https://github.com/Anony-hub567/RDOS/blob/main/Email information.md)
