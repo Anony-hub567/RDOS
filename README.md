@@ -17,6 +17,10 @@ This repository contains the materials related to my thesis.
 
 - **Email information.md** : This file compiles useful information related to the project extracted from project - related emails, which has been desensitized to ensure privacy and security. It offers supplementary insights and details that aid in understanding the project's progression, communication between stakeholders, and other email - based exchanges relevant to the project.
 
+## Ideal Organizational Structure Determination
+
+- Through multiple communications with the management personnel of the project, we have finally confirmed the ideal organizational structure of the project and accordingly drawn the Ideal Organizational Structure diagram.
+
 ![Ideal Organizational Structure](images/Ideal_Organizational_Structure.png)
 
 ## Detailed Explanation of Organizational Structure
@@ -85,3 +89,34 @@ In the figure, "mc" followed by a number denotes Missing Communication, "ac" fol
   - **Issue**: The CTO of Company B, responsible for overseeing data policies and requirements documentation, did not maintain regular communication with the Project Manager of Company C. This Missing communication led to misalignments in data cleaning and algorithm development. Specifically, the data cleaning processes undertaken by Company B did not align with the algorithmic requirements of Company C, resulting in rework and extended timelines.
   - **Impact**: The algorithms developed by Company C's Algorithm Team could not effectively utilize the cleaned data from Company B, leading to inefficiencies and delays in the project.
 
+### Abnormal Communication (ac)
+
+- **Abnormal Communication Between Company A's IT Manager and Company B's CTO(ac1)**
+
+  - **Issue**: Company A's IT Manager communicated directly with Company B's CTO. The proper channel should involve the IT Manager first reporting to Company A's Innovation Department Project Manager, who then consolidates information and communicates with the CTO. The direct communication increased the CTO's workload and led to fragmented information reception and inefficient information integration.
+  - **Impact**: The CTO of Company B had to handle numerous unconsolidated pieces of information, which consumed significant time and effort to consolidate. This not only reduced the efficiency of the requirements gathering process but also led to potential misunderstandings and inconsistencies in the requirements, delaying the project timeline.
+
+- **Abnormal Communication Between Company A's IT Manager and Company C's Pre-sales(ac2)**
+
+  - **Issue**: Company A's IT Manager communicated directly with Company C's Pre-sales. The correct procedure is for the IT Manager to report to Company A's Innovation Department Project Manager, who then consolidates information and communicates with the Pre-sales. The direct communication increased the Pre-sales' workload and caused similar issues of fragmented information and inefficient integration.
+  - **Impact**: Company C's Pre-sales team was overwhelmed with disparate information, leading to difficulties in providing accurate and timely responses to Company A's needs. This disrupted the coordination between Company A and Company C, resulting in delays in project progress and potential misalignment in the development process.
+
+  **Abnormal Communication Between Company C's Algorithm Team and Company A's IT Department(ac3)**
+
+  - **Issue**: Due to the Missing communication between Company C's Project Manager and other stakeholders, the Algorithm Team in Company C directly communicated with the IT Manager in Company A's IT Department. This bypassed the established communication channels and created an additional burden on the IT Manager, who was not equipped to handle these specific technical requirements.
+  - **Impact**: The Engineering Team in Company C could not synchronize their development progress directly through the Project Manager, leading to inefficiencies. The Pre-sales team in Company C's Engineering Team had to step in to communicate with the IT Manager in Company A, creating an unnecessary and error-prone communication channel.
+
+  **Abnormal Communication Between Company A's Data Scientist and Company C's Algorithm Team(ac4)**
+
+  - **Issue**: The Technical Manager within Company A's Data Scientist team communicated directly with the AI Architect in Company C's Algorithm Team. This communication should have been routed through the Project Manager in Company A's Innovation Department, ensuring proper oversight and alignment.
+  - **Impact**: This direct communication led to duplicated efforts and inefficiencies within Company C's Algorithm Team, as they had to repeatedly clarify requirements. It also highlighted overlapping responsibilities between the Technical Manager in Company A's Data Scientist team and the Project Manager in Company A's Innovation Department, leading to role ambiguity and reduced project efficiency.
+
+- **Abnormal Communication Between Company A's Technical Supervisor of Data Department and Company B's CTO(ac5)**
+
+  - **Issue**: Company A's Technical Supervisor of the Data Department directly contacted Company B's CTO. The appropriate communication flow should involve the Technical Supervisor reporting to Company A's Innovation Department Project Manager, who then communicates with the CTO. The direct communication added to the CTO's workload and caused information fragmentation and integration inefficiencies.
+  - **Impact**: The CTO of Company B had to spend extra time consolidating information from different sources, which diverted attention from core technical tasks. This led to delays in data analysis and requirements clarification, ultimately affecting the project's overall timeline and the quality of data - related deliverables.
+
+- **Abnormal Communication Between Company A's Technical Supervisor of Data Department and Company C's Pre-sales(ac6)**
+
+  - **Issue**: Company A's Technical Supervisor of the Data Department directly communicated with Company C's Pre-sales. The established protocol requires the Technical Supervisor to report to Company A's Innovation Department Project Manager, who then consolidates information and interacts with the Pre-sales. The direct communication increased the Pre-sales' workload and caused issues with fragmented information and inefficient integration.
+  - **Impact**: The Pre-sales team in Company C struggled to manage the influx of unconsolidated information, leading to potential inaccuracies in addressing Company A's requirements. This disrupted the collaboration between the two companies, resulting in project delays and an increased likelihood of errors in the development process.
