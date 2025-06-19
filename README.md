@@ -23,6 +23,8 @@ This repository contains the materials related to my thesis.
 
 ![Ideal Organizational Structure](images/Ideal_Organizational_Structure.png)
 
+** fig1:Ideal Organizational Structure **
+
 ## Detailed Explanation of Organizational Structure
 
 ### Company A (Client-Side)
